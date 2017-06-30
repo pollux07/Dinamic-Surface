@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/danielleon/Descargas/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="46eab642e06ceb3aa24aff3814c76c35de42afc4">
+        <dex dex="/home/danielleon/Descargas/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c34186f9689c252b58473483edfa5acce3a0d795/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danielleon/Descargas/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/danielleon/Descargas/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_937fcb9cbb002f4a36a2b414392861247e56df04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danielleon/.android/build-cache/1d5fe14f2a2accb296e2fa862606c75e892e76f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/danielleon/AndroidStudioProjects/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd1f82a799264113ebcb7e3472103b9975aba294/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danielleon/.android/build-cache/b92875bd6dae5d9f57b854f86e7c1a8a3d2a9e1d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/home/danielleon/AndroidStudioProjects/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46d497c04563f83d37a821a2e35b8935f9306126/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danielleon/.android/build-cache/fab281ae4047f0812844a4e86d6d66c570341230/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/danielleon/AndroidStudioProjects/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aed8d09c49e59e80606f5939d3813ec17db83487/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danielleon/Descargas/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/home/danielleon/Descargas/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-22.2.0_214399ecf3f577778209a57fa559add3e172a28c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danielleon/.android/build-cache/720acdefa55aed6f0d23b144430d181bea13265f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/home/danielleon/AndroidStudioProjects/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d627df05cfc04331788b11c7ffdd62dbac11d011/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danielleon/Descargas/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/danielleon/Descargas/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.0_b9be2f11b1f7e8a25c2b6532d0c6132942ede1ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danielleon/AndroidStudioProjects/DynamicSurfacesDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/danielleon/AndroidStudioProjects/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bde01287598ac2484be7b8a17def9ee167c15d9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danielleon/Descargas/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/home/danielleon/Descargas/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-22.2.0_a6bffa4aa67ea992796320ec40ed4077975de528/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danielleon/Descargas/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="48651fc75c497ba920a5d0b8e1a16a4bde9db702">
+        <dex dex="/home/danielleon/Descargas/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_41da8cceca102005b2a42f4fe038c89f27544039/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danielleon/.android/build-cache/1d5fe14f2a2accb296e2fa862606c75e892e76f0/output/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/danielleon/AndroidStudioProjects/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_eb08c3d7af187c25ec7711318cfd7e10ce2ddfec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danielleon/AndroidStudioProjects/DynamicSurfacesDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="351e3ddc6aad16f9b31c75ce55b756a721e58994">
+        <dex dex="/home/danielleon/AndroidStudioProjects/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d74dd276efbde940c76490958b0f8447acb949bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danielleon/Descargas/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/danielleon/Descargas/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.0_0c04fa85b96e2623fc1c46377f2b4d1f7b77ae09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danielleon/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/danielleon/AndroidStudioProjects/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_9eb1caccc34d99c34efdfaf03d29d36009352e55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danielleon/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/danielleon/Descargas/ud862-samples/DynamicSurfacesDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_9eb1caccc34d99c34efdfaf03d29d36009352e55/classes.dex" />
+    </item>
+
+</items>
